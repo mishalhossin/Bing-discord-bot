@@ -14,7 +14,7 @@ This is a chatbot implemented in Discord using the Bing API for natural language
 1. Clone the repository:
 
    ```shell
-   git clone <repository-url>
+   git clone https://github.com/mishalhossin/Bing-discord-bot
    ```
 
 2. Install the required dependencies:
@@ -31,7 +31,7 @@ This is a chatbot implemented in Discord using the Bing API for natural language
 4. Run the bot:
 
    ```shell
-   python bot.py
+   python main.py
    ```
 
 ## Usage
