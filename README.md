@@ -1,2 +1,5 @@
 # Bing-discord-bot
-Just set up `DISCORD_TOKEN` env with your discord token
+
+then ust set up `DISCORD_TOKEN` env with your discord token
+
+and run the bot using `python main.py` in the shell
