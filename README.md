@@ -1,6 +1,3 @@
-Here's an example README file for a Bing chatbot in Discord:
-
-```markdown
 # Bing Chatbot for Discord
 
 This is a chatbot implemented in Discord using the Bing API for natural language processing. The chatbot interacts with users in text channels, providing automated responses based on user prompts.
@@ -52,6 +49,3 @@ Contributions are welcome! If you encounter any issues or have suggestions for i
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
-
-Feel free to customize and enhance this README file to suit your specific needs.
